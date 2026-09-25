@@ -1,0 +1,14 @@
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/bin/Debug/net10.0/Assignment3-AsyncConsoleApp
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/bin/Debug/net10.0/Assignment3-AsyncConsoleApp.deps.json
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/bin/Debug/net10.0/Assignment3-AsyncConsoleApp.runtimeconfig.json
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/bin/Debug/net10.0/Assignment3-AsyncConsoleApp.dll
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/bin/Debug/net10.0/Assignment3-AsyncConsoleApp.pdb
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.AssemblyInfoInputs.cache
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.AssemblyInfo.cs
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.csproj.CoreCompileInputs.cache
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.dll
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/refint/Assignment3-AsyncConsoleApp.dll
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.pdb
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/Assignment3-AsyncConsoleApp.genruntimeconfig.cache
+/Users/neilkeung/RiderProjects/Assignment3-AsyncConsoleApp/Assignment3-AsyncConsoleApp/obj/Debug/net10.0/ref/Assignment3-AsyncConsoleApp.dll
